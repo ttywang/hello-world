@@ -1,2 +1,3 @@
 # hello-world
-tw hello work repository
+tw hello world repository
+learning git 123
